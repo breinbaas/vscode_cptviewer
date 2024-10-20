@@ -2,6 +2,7 @@
   "name": "cptviewer",
   "repository": "https://github.com/breinbaas/vscode_cptviewer",
   "displayName": "CptViewer",
+  "publisher": "breinbaas",
   "description": "View CPTs from within VSCode",
   "version": "0.1.0",
   "engines": {
