@@ -23,6 +23,6 @@ Initial release of CPTViewer
 
 Created by LeveeLogic, Rob van Putten, breinbaasnl@gmail.com
 
-Repository: 
+Repository: [The repository is hosted on github](https://github.com/breinbaas/vscode_cptviewer)
 
 **Enjoy!**
